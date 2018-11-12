@@ -28,7 +28,7 @@ navbar:
       href: mailto:faisalshev@chrim.ca                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/fatakoraaaa      # CHANGE HERE 
+      href: https://github.com/fatakoraaaaa     # CHANGE HERE 
 output:
   html_document:
     theme: cerulean #cosmo
