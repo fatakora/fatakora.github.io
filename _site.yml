@@ -13,9 +13,9 @@ navbar:
     - text: "Packages"
       icon: fa-file-code-o 
       href: about.html
-    - text: "Presentations"
-      icon: fa-file-text 
-      href: about.html
+#     - text: "Presentations"
+#       icon: fa-file-text 
+#       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
