@@ -7,9 +7,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
+#    - text: "About"
+#      icon: fa-user 
+#      href: about.html
+    - text: "Articles/Blog/Pages"  ###How to add multiple hrefs
+      icon: fa-rss
+      href: https://datascienceplus.com/author/faisal-atakora/  # CHANGE HERE OR DELETE ALL 3 LINES 
     - text: "Packages"
       icon: fa-file-code-o 
       href: about.html
@@ -19,9 +22,6 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "Articles/Blog/Pages"  ###How to add multiple hrefs
-      icon: fa-rss
-      href: https://datascienceplus.com/author/faisal-atakora/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
